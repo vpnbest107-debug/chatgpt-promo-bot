@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.env
+chatgpt_token.txt
+*.log
+temp_*.txt
+*.json
